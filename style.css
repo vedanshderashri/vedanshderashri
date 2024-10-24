@@ -1,0 +1,260 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Ubuntu", sans-serif;
+}
+::-webkit-scrollbar {
+    width: 5px;
+  }
+.intro{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: url('main.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    padding: 50px;
+}
+.social-media a{
+    color: #fff;
+}
+.social-media a i{
+    margin: 10px;
+    font-size: 30px;
+}
+.intro-details{
+    line-height: 20px;
+}
+
+.intro-details h3{
+    font-size: 50px;
+}
+.intro-details h1{
+    font-size: 80px;
+}
+.intro-details p{
+    font-size: 20px;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    border: 0;
+    margin-top: 30px;
+    background: #00c26e;
+    color: #fff;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.links a li{
+    list-style: none;
+    margin: 10px;
+    color: #00c26e;
+}
+.links a{
+    text-decoration: none;
+}
+.profile img{
+    width: 150px;
+    border-radius: 50%;
+    border: 10px solid #fff;
+    position: absolute;
+    left: 45%;
+    top: 75%;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+#line{
+    width: 30px;
+    height: 2px;
+    background: #00c26e;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#details-box{
+    width: 20%;
+    margin: 40px 10px;
+    border: 1px solid rgb(0 0 0 / 13%);
+    height: 450px;
+    padding: 50px;
+}
+#details-box h1{
+    font-size: 20px;
+}
+.expertise #exp{
+    padding: 10px;
+    border-bottom: 1px solid #c5c5c5;
+    margin: 10px;
+}
+.resume{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.resume .column{
+    width: 20%;
+    margin: 40px 10px;
+    border: 1px solid rgb(0 0 0 / 13%);
+    height: 450px;
+    padding: 50px;
+}
+.column p,.details p{
+    font-size: 14px;
+    color: #888888;
+    font-weight: 100;
+    line-height: 20px;
+}
+.column div{
+    border-bottom: 1px solid rgb(0 0 0 / 13%);
+}
+.column h2{
+    color: #00c26e;
+    font-size: 20px;
+    font-weight: 400;
+}
+#title{
+    margin-top: 4rem;
+    margin-left: 12rem;
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: #00c26e;
+    color: #fff;
+    padding: 30px;
+}
+.section .work{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    font-size: 50px;
+    border-right: 1px solid rgb(255, 255, 255);
+    margin: 15px;
+    padding: 15px;
+}
+.portf-pages{
+    display: grid;
+    height: 600px;
+    overflow-y: scroll;
+    border: 1px solid rgb(0 0 0 / 13%);
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+}
+.portf-pages img{
+    width: 100%;
+    opacity: 0.2;
+}
+.portf-pages img:hover{
+    opacity: 1;
+}
+.projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.project{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    border: 1px solid rgb(0 0 0 / 13%);
+    padding: 10px;
+}
+.project a{
+    text-decoration: none;
+    color: #141414;
+}
+.project img{
+    width: 300px;
+    margin: 5px;
+}
+.footer{
+    text-align: center;
+    font-size: 14px;
+    color: #00c26e;
+    border-top: 1px solid rgb(0 0 0 / 13%);
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 1000px){
+    .profile{
+        display: none;
+    }
+}
+@media screen and (max-width: 1500px){
+    #details-box{
+        height: 100%;
+        width: 100%;
+        margin: 20px;
+    }
+    #title{
+        margin-left: 10%;
+    }
+}
+@media screen and (max-width: 1100px){
+    .resume .column{
+        height: 100%;
+        width: 100%;
+        margin: 20px;
+    }
+}
+@media screen and (max-width: 700px){
+    .navbar{
+        display: none;
+    }
+}
+@media screen and (max-width: 500px){
+    .intro-details{
+        line-height: normal;
+    }
+    
+    .intro-details h3{
+        font-size: 30px;
+    }
+    .intro-details h1{
+        font-size: 50px;
+    }
+    .intro-details p{
+        font-size: 22px;
+    }
+    .work{
+        width: 100%;
+    }
+    iframe{
+        width: 100%;
+    }
+}
+
