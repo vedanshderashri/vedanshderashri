@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Developer · UI/UX Designer · Tech Explorer</b>
+  <b>Web Developer & UI/UX/Graphic Designer </b>
 </p>
 
 ---
