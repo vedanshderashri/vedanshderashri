@@ -1,16 +1,19 @@
-## Hi there 👋
+<!-- ⬛ JARVIS / IRON MAN SYSTEM ONLINE ⬛ -->
 
-<!--
-**vedanshderashri/vedanshderashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=SYSTEM%20ONLINE&fontSize=32&fontColor=00FFF7&color=0:000000,100:0f2027&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF7&size=22&center=true&vCenter=true&lines=JARVIS+INITIATED;AI+INTERFACE+LOADED;WELCOME+VEDANSH+DERASHRI;AUTHORIZED+DEVELOPER+DETECTED" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 AI CORE PROFILE
+
+```txt
+> Name        : Vedansh Derashri
+> Call Sign   : PUNISHER
+> Role        : Software Engineer / UI-UX Designer
+> Status      : ACTIVE
