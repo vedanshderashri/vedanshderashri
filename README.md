@@ -1,7 +1,7 @@
 <!-- SIMPLE JARVIS PROFILE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFF7&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;WELCOME+VEDANSH;PUNISHER+INTERFACE+LOADED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=00FFF7&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;WELCOME;PUNISHER+INTERFACE+LOADED" />
 </p>
 
 <p align="center">
