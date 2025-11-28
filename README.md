@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF7&size=22&center=true&vCenter=true&lines=JARVIS+INITIATED;AI+INTERFACE+LOADED;WELCOME+VEDANSH+DERASHRI;AUTHORIZED+DEVELOPER+DETECTED" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00FFF7&size=22&center=true&vCenter=true&lines=PUNISHER+INITIATED;AI+INTERFACE+LOADED;WELCOME+TO MY WORLD;AUTHORIZED+DEVELOPER+DETECTED" />
 </p>
 
 ---
